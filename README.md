@@ -1,2 +1,2 @@
-# html-portolio
+# html-portfolio
 first project
